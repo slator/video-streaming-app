@@ -1,0 +1,23 @@
+{
+  "name": "video-streaming-app",
+  "version": "1.0.0",
+  "description": "Video streaming application",
+  "main": "app.js",
+  "dependencies": {
+    "tedious": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slator/video-streaming-app.git"
+  },
+  "author": "Bojan Kovrlija, Jan Roth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slator/video-streaming-app/issues"
+  },
+  "homepage": "https://github.com/slator/video-streaming-app#readme"
+}
