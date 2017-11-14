@@ -4,7 +4,8 @@
   "description": "Video streaming application",
   "main": "app.js",
   "dependencies": {
-    "tedious": "^2.1.1"
+    "async": "^2.5.0",
+    "sequelize": "^4.22.5"
   },
   "devDependencies": {},
   "scripts": {
